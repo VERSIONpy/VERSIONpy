@@ -26,8 +26,10 @@ I’m not chasing buzzwords — just trying to build, break, and learn properly.
 **Currently learning**
 - Machine Learning (slow but steady)
 - MERN STACK
-
+-
 🤔 I’m looking for help with contributing to open source and understanding how real-world projects are structured.
+
+
 ---
 
 
