@@ -51,7 +51,7 @@ I’m not chasing buzzwords — just trying to build, break, and learn properly.
 
 
 ## 📫 Let’s Connect
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: https://www.linkedin.com/in/srivardhan-sirikonda/  
 
 ---
 
