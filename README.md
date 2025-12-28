@@ -51,7 +51,8 @@ I’m not chasing buzzwords — just trying to build, break, and learn properly.
 
 
 ## 📫 Let’s Connect
-- LinkedIn: https://www.linkedin.com/in/srivardhan-sirikonda/  
+- LinkedIn: https://www.linkedin.com/in/srivardhan-sirikonda/
+- Profile: https://versionpy.netlify.app/
 
 ---
 
